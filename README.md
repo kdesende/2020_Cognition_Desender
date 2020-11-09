@@ -5,8 +5,7 @@ Repo for "Dynamic expressions of confidence within an evidence accumulation fram
 
 The raw data from this paper can be found in the file rawData.txt
 
-#Behavioral analysis
+#Behavioral analysis and model predictions
 
 #HDDM fitting 
 
-#Model predictions
